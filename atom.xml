@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DigetalMatrix49</title>
+  
+  <subtitle>TO be or not to be,it`s a question.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-21T17:13:19.715Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mr.Wang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/04/22/%E6%88%91%E7%9A%84%E5%9F%9F%E5%90%8D/"/>
+    <id>http://yoursite.com/2019/04/22/我的域名/</id>
+    <published>2019-04-21T17:13:19.085Z</published>
+    <updated>2019-04-21T17:13:19.715Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我的域名是：www-digitalmatrix49-com"><a href="#我的域名是：www-digitalmatrix49-com" class="headerlink" title="我的域名是：www.digitalmatrix49.com"></a>我的域名是：<a href="http://www.digitalmatrix49.com" target="_blank" rel="noopener">www.digitalmatrix49.com</a></h1><p>​    欢迎访问！！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;我的域名是：www-digitalmatrix49-com&quot;&gt;&lt;a href=&quot;#我的域名是：www-digitalmatrix49-com&quot; class=&quot;headerlink&quot; title=&quot;我的域名是：www.digitalmatrix49.com&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/04/21/%E8%AE%B0%E5%BD%95%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/04/21/记录第一篇博客/</id>
+    <published>2019-04-21T13:42:43.412Z</published>
+    <updated>2019-04-21T13:42:44.081Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="记录第一篇博客"><a href="#记录第一篇博客" class="headerlink" title="记录第一篇博客"></a>记录第一篇博客</h1><blockquote><p>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。<br>烹羊宰牛且为乐，会须一饮三百杯。<br>岑夫子，丹丘生，将进酒，杯莫停。<br>与君歌一曲，请君为我倾耳听。</p></blockquote><p>用了大概一晚上的时间，终于搞定了。在这里记录一下。</p><p>过年的时候过年时候实现了购买服务器得以自由出入GFW，今天又终于达成了搭建博客的目标，yes！ </p><p>2019/4/21</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;记录第一篇博客&quot;&gt;&lt;a href=&quot;#记录第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;记录第一篇博客&quot;&gt;&lt;/a&gt;记录第一篇博客&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;人生得意须尽欢，莫使金樽空对月。&lt;br&gt;天生我材必有用，千金散尽还复来。&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
