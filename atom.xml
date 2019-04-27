@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-27T14:22:15.188Z</updated>
+  <updated>2019-04-27T15:15:45.164Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>欢迎访问！</title>
     <link href="http://yoursite.com/2019/04/22/%E6%88%91%E7%9A%84%E5%9F%9F%E5%90%8D/"/>
     <id>http://yoursite.com/2019/04/22/我的域名/</id>
     <published>2019-04-21T17:13:19.085Z</published>
-    <updated>2019-04-27T14:22:15.188Z</updated>
+    <updated>2019-04-27T15:15:45.164Z</updated>
     
     <content type="html"><![CDATA[<h1 id="欢迎访问！"><a href="#欢迎访问！" class="headerlink" title="欢迎访问！"></a>欢迎访问！</h1><p>我的域名是：<a href="http://www.digitalmatrix49.com" target="_blank" rel="noopener">www.digitalmatrix49.com</a></p>]]></content>
     
@@ -38,13 +38,13 @@
   </entry>
   
   <entry>
-    <title></title>
+    <title>记录我的第一篇博客</title>
     <link href="http://yoursite.com/2019/04/21/%E8%AE%B0%E5%BD%95%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2019/04/21/记录第一篇博客/</id>
     <published>2019-04-21T13:42:43.412Z</published>
-    <updated>2019-04-27T14:21:35.103Z</updated>
+    <updated>2019-04-27T15:14:57.251Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="记录第一篇博客"><a href="#记录第一篇博客" class="headerlink" title="记录第一篇博客"></a>记录第一篇博客</h1><blockquote><p>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。</p></blockquote><p>​    用了大概一晚上的时间，终于搞定了。在这里记录一下。</p><p>过年的时候过年时候实现了购买服务器得以自由出入GFW，今天又终于达成了搭建博客的目标，yes！ </p><p>2019/4/21</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="记录第一篇博客"><a href="#记录第一篇博客" class="headerlink" title="记录第一篇博客"></a>记录第一篇博客</h1><blockquote><p>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。</p></blockquote><p>​    用了大概一晚上的时间，终于搞定了。在这里记录一下。</p><p>​    过年的时候过年时候实现了购买服务器得以自由出入GFW，今天又终于达成了搭建博客的目标，yes！ </p><p>2019/4/21</p>]]></content>
     
     <summary type="html">
     
