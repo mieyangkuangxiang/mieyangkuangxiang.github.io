@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-28T04:13:39.337Z</updated>
+  <updated>2019-04-28T05:12:53.457Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,26 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>使用博客中遇到的问题和解决方法</title>
-    <link href="http://yoursite.com/2019/04/29/2019-04-29-%E4%BD%BF%E7%94%A8%E5%8D%9A%E5%AE%A2%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
-    <id>http://yoursite.com/2019/04/29/2019-04-29-使用博客中遇到的问题和解决方法/</id>
-    <published>2019-04-29T02:25:20.000Z</published>
-    <updated>2019-04-28T04:13:39.337Z</updated>
+    <title>Todo-List Recently</title>
+    <link href="http://yoursite.com/2019/04/28/2019-04-28-Todo-list-recently/"/>
+    <id>http://yoursite.com/2019/04/28/2019-04-28-Todo-list-recently/</id>
+    <published>2019-04-28T05:11:16.554Z</published>
+    <updated>2019-04-28T05:12:53.457Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h3><p>问题描述：</p><p>解决方法：在主题的source下面新建一个文件夹（如uploads），专门放置图片资源。使用时，直接将图片拖入Typora，并将前面的那段绝对路径删掉，然后再将剩余的<strong>两个\分别换成/</strong> 就可以了。最终显示为：</p><p><code>![2019-04-28_12-00-15](/uploads/2019-04-28_12-00-15.jpg)</code></p><p>来源：<a href="http://www.mashangxue123.com/Hexo/1322489026.html#3-wang-luo-tu-pian-cha-ru" target="_blank" rel="noopener">马上学123</a>、<a href="http://etrd.org/2017/01/23/hexo%E4%B8%AD%E5%AE%8C%E7%BE%8E%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87/" target="_blank" rel="noopener">ETRD博客</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="博客结构需补充的"><a href="#博客结构需补充的" class="headerlink" title="博客结构需补充的"></a>博客结构需补充的</h2><ul><li style="list-style: none"><input type="checkbox"> 增加评论</li><li style="list-style: none"><input type="checkbox"> 设置头像并设置动画效果</li><li style="list-style: none"><input type="checkbox"> 底部加入访问量</li><li style="list-style: none"><input type="checkbox"> 底部增加字数统计</li><li style="list-style: none"><input type="checkbox"> 添加热度（我是在找死吗？）</li><li style="list-style: none"><input type="checkbox"> 添加外链网易云音乐</li><li style="list-style: none"><input type="checkbox"> 末尾添加“文章结束”标记</li><li style="list-style: none"><input type="checkbox"> 侧边栏社交小图标设置</li><li style="list-style: none"><input type="checkbox"> 设置动态背景</li><li style="list-style: none"><input type="checkbox"> 添加站内搜索</li><li style="list-style: none"><input type="checkbox"> 侧边栏推荐阅读</li></ul><h2 id="博客内容需添加的"><a href="#博客内容需添加的" class="headerlink" title="博客内容需添加的"></a>博客内容需添加的</h2><ul><li style="list-style: none"><input type="checkbox"> 我最喜爱的PC/IOS软件</li><li style="list-style: none"><input type="checkbox"> 观《触不可及（美版）》后感</li><li style="list-style: none"><input type="checkbox"> 读《学会提问》、《聊斋志异》、《局外人》和《公众舆论》</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;1-插入图片&quot;&gt;&lt;a href=&quot;#1-插入图片&quot; class=&quot;headerlink&quot; title=&quot;1.插入图片&quot;&gt;&lt;/a&gt;1.插入图片&lt;/h3&gt;&lt;p&gt;问题描述：&lt;/p&gt;
-&lt;p&gt;解决方法：在主题的source下面新建一个文件夹（如uploads），专门放置图片
+        &lt;h2 id=&quot;博客结构需补充的&quot;&gt;&lt;a href=&quot;#博客结构需补充的&quot; class=&quot;headerlink&quot; title=&quot;博客结构需补充的&quot;&gt;&lt;/a&gt;博客结构需补充的&lt;/h2&gt;&lt;ul&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;ch
       
     
     </summary>
     
     
-      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="Todo" scheme="http://yoursite.com/tags/Todo/"/>
     
   </entry>
   
@@ -93,6 +93,30 @@
       <category term="Typora" scheme="http://yoursite.com/tags/Typora/"/>
     
       <category term="快捷键" scheme="http://yoursite.com/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用博客中遇到的问题和解决方法（待补充）</title>
+    <link href="http://yoursite.com/2019/04/28/2019-04-29-%E4%BD%BF%E7%94%A8%E5%8D%9A%E5%AE%A2%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/04/28/2019-04-29-使用博客中遇到的问题和解决方法/</id>
+    <published>2019-04-28T02:25:20.000Z</published>
+    <updated>2019-04-28T05:06:09.248Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h3><p>问题描述：</p><p>解决方法：在主题的source下面新建一个文件夹（如uploads），专门放置图片资源。使用时，直接将图片拖入Typora，并将前面的那段绝对路径删掉，然后再将剩余的<strong>两个\分别换成/</strong> 就可以了。最终显示为：</p><p><code>![2019-04-28_12-00-15](/uploads/2019-04-28_12-00-15.jpg)</code></p><p>来源：<a href="http://www.mashangxue123.com/Hexo/1322489026.html#3-wang-luo-tu-pian-cha-ru" target="_blank" rel="noopener">马上学123</a>、<a href="http://etrd.org/2017/01/23/hexo%E4%B8%AD%E5%AE%8C%E7%BE%8E%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87/" target="_blank" rel="noopener">ETRD博客</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;1-插入图片&quot;&gt;&lt;a href=&quot;#1-插入图片&quot; class=&quot;headerlink&quot; title=&quot;1.插入图片&quot;&gt;&lt;/a&gt;1.插入图片&lt;/h3&gt;&lt;p&gt;问题描述：&lt;/p&gt;
+&lt;p&gt;解决方法：在主题的source下面新建一个文件夹（如uploads），专门放置图片
+      
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
