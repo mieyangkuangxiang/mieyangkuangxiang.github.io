@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-27T15:15:45.164Z</updated>
+  <updated>2019-04-28T04:13:39.337Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,23 +17,83 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>欢迎访问！</title>
-    <link href="http://yoursite.com/2019/04/22/%E6%88%91%E7%9A%84%E5%9F%9F%E5%90%8D/"/>
-    <id>http://yoursite.com/2019/04/22/我的域名/</id>
-    <published>2019-04-21T17:13:19.085Z</published>
-    <updated>2019-04-27T15:15:45.164Z</updated>
+    <title>使用博客中遇到的问题和解决方法</title>
+    <link href="http://yoursite.com/2019/04/29/2019-04-29-%E4%BD%BF%E7%94%A8%E5%8D%9A%E5%AE%A2%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/04/29/2019-04-29-使用博客中遇到的问题和解决方法/</id>
+    <published>2019-04-29T02:25:20.000Z</published>
+    <updated>2019-04-28T04:13:39.337Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="欢迎访问！"><a href="#欢迎访问！" class="headerlink" title="欢迎访问！"></a>欢迎访问！</h1><p>我的域名是：<a href="http://www.digitalmatrix49.com" target="_blank" rel="noopener">www.digitalmatrix49.com</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1.插入图片"></a>1.插入图片</h3><p>问题描述：</p><p>解决方法：在主题的source下面新建一个文件夹（如uploads），专门放置图片资源。使用时，直接将图片拖入Typora，并将前面的那段绝对路径删掉，然后再将剩余的<strong>两个\分别换成/</strong> 就可以了。最终显示为：</p><p><code>![2019-04-28_12-00-15](/uploads/2019-04-28_12-00-15.jpg)</code></p><p>来源：<a href="http://www.mashangxue123.com/Hexo/1322489026.html#3-wang-luo-tu-pian-cha-ru" target="_blank" rel="noopener">马上学123</a>、<a href="http://etrd.org/2017/01/23/hexo%E4%B8%AD%E5%AE%8C%E7%BE%8E%E6%8F%92%E5%85%A5%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87/" target="_blank" rel="noopener">ETRD博客</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;欢迎访问！&quot;&gt;&lt;a href=&quot;#欢迎访问！&quot; class=&quot;headerlink&quot; title=&quot;欢迎访问！&quot;&gt;&lt;/a&gt;欢迎访问！&lt;/h1&gt;&lt;p&gt;我的域名是：&lt;a href=&quot;http://www.digitalmatrix49.com&quot; target=&quot;_bl
+        &lt;h3 id=&quot;1-插入图片&quot;&gt;&lt;a href=&quot;#1-插入图片&quot; class=&quot;headerlink&quot; title=&quot;1.插入图片&quot;&gt;&lt;/a&gt;1.插入图片&lt;/h3&gt;&lt;p&gt;问题描述：&lt;/p&gt;
+&lt;p&gt;解决方法：在主题的source下面新建一个文件夹（如uploads），专门放置图片
       
     
     </summary>
     
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TranslucentTB-使任务栏模糊化Or透明化</title>
+    <link href="http://yoursite.com/2019/04/28/2019-04-28-TranslucentTB-%E4%BD%BF%E4%BB%BB%E5%8A%A1%E6%A0%8F%E6%A8%A1%E7%B3%8A%E5%8C%96or%E9%80%8F%E6%98%8E%E5%8C%96/"/>
+    <id>http://yoursite.com/2019/04/28/2019-04-28-TranslucentTB-使任务栏模糊化or透明化/</id>
+    <published>2019-04-28T04:10:20.000Z</published>
+    <updated>2019-04-28T04:11:43.530Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    自从用了windows 10以后，很多人开始怀念win 7时任务栏的高斯模糊，整个桌面具有统一感。而10系统的任务栏简直就是黑乎乎的一坨“xx”，自然被那些有强迫症和热衷桌面美化的同学深恶痛疾。</p><p>​    今天介绍的TranslucentTB是一个小小的美化工具，一共只有500多kb。但它却能够有效改变任务栏的xx属性，让你的任务栏赏心悦目。</p><p>​    TranslucentTB的使用方法也很简单，解压缩后运行，图标有三个选项，分别对应：</p><blockquote><p>Blue—高斯模糊状态</p><p>Clear—全透明状态</p><p>Exit—退出</p></blockquote><p>​    你可以根据自己的喜好来设定。</p><p><img src="/uploads/2019-04-28_12-00-15.jpg" alt="2019-04-28_12-00-15"></p><p>​    下载链接：<a href="https://pan.baidu.com/s/1BvZmvMTjDyQKKD1CkFpxCQ" target="_blank" rel="noopener">百度云</a>，提取码是<code>f83d</code>；<a href="https://github.com/TranslucentTB/TranslucentTB" target="_blank" rel="noopener">github链接</a>。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​    自从用了windows 10以后，很多人开始怀念win 7时任务栏的高斯模糊，整个桌面具有统一感。而10系统的任务栏简直就是黑乎乎的一坨“xx”，自然被那些有强迫症和热衷桌面美化的同学深恶痛疾。&lt;/p&gt;
+&lt;p&gt;​    今天介绍的TranslucentTB是一个小
+      
+    
+    </summary>
+    
+      <category term="windows美化" scheme="http://yoursite.com/categories/windows%E7%BE%8E%E5%8C%96/"/>
+    
+    
+      <category term="美化" scheme="http://yoursite.com/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+      <category term="windows" scheme="http://yoursite.com/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown指令和dash快捷键</title>
+    <link href="http://yoursite.com/2019/04/28/Markdown%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
+    <id>http://yoursite.com/2019/04/28/Markdown常用指令/</id>
+    <published>2019-04-28T03:55:30.000Z</published>
+    <updated>2019-04-28T03:57:23.389Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Typora快捷键"><a href="#Typora快捷键" class="headerlink" title="Typora快捷键"></a>Typora快捷键</h2><ul><li>无序列表：输入-之后输入空格</li><li>有序列表：输入1.加上空格就是第一个序列</li><li>引用：输入&gt;（换成英文输入法）加上空格</li><li>下划线：输入<code>ctrl + u</code>即可，示意：<u>下滑</u></li><li>标题：输入<code>ctrl+数字键</code>或者用若干#也可</li><li>删除键：输入<code>alt + shift + 5</code>，显示效果如：<del>哈哈哈</del></li><li>字体倾斜：输入<code>ctrl + i</code>，显示效果如：<em>哇哦</em></li><li><strong>字体加粗</strong>：输入<code>ctrl + b</code>，显示效果如：<strong>怎么了</strong></li><li><strong>插入链接</strong>：输入<code>ctrl + k</code>，显示效果如：<a href="www.baidu.com">百度</a></li><li><strong>插入图片</strong>：直接本地拖拉；或者<code>ctrl + shift + i</code></li><li>选中：<code>ctrl + d</code> 或者 <code>ctrl + shift + left/right</code> 左右进行文本选中</li><li>选中行：<code>ctrl + l</code></li><li><strong>标签或者单句代码</strong>：英文输入法下的<code>内容</code>即可</li><li>分割线：输入<code>---</code> 即可</li><li>代码编写：输入`<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- 任务列表：`- [ ] 文字` 即可</span><br><span class="line">- 添加标签</span><br></pre></td></tr></table></figure></li></ul><hr><p>title: title #文章標題<br>date: 2016-06-01 23:47:44 #文章生成時間<br>categories: “Hexo教程” #文章分類目錄 可以省略<br>tags: #文章標籤 可以省略</p><pre><code>- 标签1- 标签2</code></pre><h2 id="description-你對本頁的描述-可以省略"><a href="#description-你對本頁的描述-可以省略" class="headerlink" title=" description: #你對本頁的描述 可以省略"></a> description: #你對本頁的描述 可以省略</h2><p>~~~</p><h2 id="dash快捷指令"><a href="#dash快捷指令" class="headerlink" title="dash快捷指令"></a>dash快捷指令</h2><p>写文章三步法：</p><p>生成静态文件：<code>hexo g</code></p><p>启动本地服务器：<code>hexo s</code></p><p>部署到网站(经确认没有问题后)：<code>hexo d</code></p><p>ps:</p><p>清理：<code>hexo clean</code> (是一个常用命令)</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Typora快捷键&quot;&gt;&lt;a href=&quot;#Typora快捷键&quot; class=&quot;headerlink&quot; title=&quot;Typora快捷键&quot;&gt;&lt;/a&gt;Typora快捷键&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;无序列表：输入-之后输入空格&lt;/li&gt;
+&lt;li&gt;有序列表：输入1.加上空
+      
+    
+    </summary>
+    
+      <category term="Typora" scheme="http://yoursite.com/categories/Typora/"/>
+    
+    
+      <category term="Typora" scheme="http://yoursite.com/tags/Typora/"/>
+    
+      <category term="快捷键" scheme="http://yoursite.com/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     
   </entry>
   
@@ -42,9 +102,9 @@
     <link href="http://yoursite.com/2019/04/21/%E8%AE%B0%E5%BD%95%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2019/04/21/记录第一篇博客/</id>
     <published>2019-04-21T13:42:43.412Z</published>
-    <updated>2019-04-27T15:14:57.251Z</updated>
+    <updated>2019-04-28T04:15:54.149Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="记录第一篇博客"><a href="#记录第一篇博客" class="headerlink" title="记录第一篇博客"></a>记录第一篇博客</h1><blockquote><p>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。</p></blockquote><p>​    用了大概一晚上的时间，终于搞定了。在这里记录一下。</p><p>​    过年的时候过年时候实现了购买服务器得以自由出入GFW，今天又终于达成了搭建博客的目标，yes！ </p><p>2019/4/21</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="记录第一篇博客"><a href="#记录第一篇博客" class="headerlink" title="记录第一篇博客"></a>记录第一篇博客</h1><blockquote><p>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。</p></blockquote><p>​    用了大概一晚上的时间，终于搞定了。在这里记录一下。</p><p>​    春节时购买服务器得以自由出入GFW，今天终于达成了搭建博客的目标，yes！ </p><p>​    2019年4月</p>]]></content>
     
     <summary type="html">
     
